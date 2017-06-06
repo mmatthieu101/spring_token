@@ -1,4 +1,4 @@
-package manage;
+package org.istv.ske.security;
 
 public class Test {
 

@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:manage.Application</config>
+		<config>java:org.istv.ske.security.Application</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

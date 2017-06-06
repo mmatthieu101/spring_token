@@ -1,11 +1,10 @@
-package manage;
+package org.istv.ske.security;
 
+import org.istv.ske.security.token.User;
+import org.istv.ske.security.token.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import manage.token.User;
-import manage.token.UserRepository;
 
 @RestController
 public class UserController {

@@ -1,4 +1,4 @@
-package manage.token;
+package org.istv.ske.security.token;
 
 import java.util.HashSet;
 import java.util.Set;

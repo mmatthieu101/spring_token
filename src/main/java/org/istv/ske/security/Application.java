@@ -1,4 +1,4 @@
-package manage;
+package org.istv.ske.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

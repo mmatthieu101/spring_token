@@ -1,4 +1,4 @@
-package manage.token;
+package org.istv.ske.security.token;
 
 import org.springframework.data.repository.CrudRepository;
 

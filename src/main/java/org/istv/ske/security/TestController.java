@@ -1,12 +1,11 @@
-package manage;
+package org.istv.ske.security;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+import org.istv.ske.security.token.User;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import manage.token.User;
 
 @RestController
 public class TestController {
