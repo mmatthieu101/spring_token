@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.springframework</groupId>
-	<artifactId>spring-rest-service-oauth</artifactId>
+	<artifactId>spring_token</artifactId>
 	<version>0.1.0</version>
 	<packaging>war</packaging>
 
